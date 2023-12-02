@@ -23,6 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madicke12&show_icons=true&locale=en&layout=compact" alt="madicke12" /></p>
 
 <p>&nbsp;<img style="margin: 2px ;" align="center" src="https://github-readme-stats.vercel.app/api?username=madicke12&show_icons=true&locale=en" alt="madicke12" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madicke12" alt="madicke12" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madicke12" alt="madicke12" /></a> </p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madicke12&" alt="madicke12" /></p>
