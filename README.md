@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Madicke cisse</h1>
 <h3 align="center">A passionate frontend developer from Senegal</h3>
+<img align="right" alt="Coding" width="400" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madicke12&label=Profile%20views&color=0e75b6&style=flat" alt="madicke12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madicke12" alt="madicke12" /></a> </p>
+
 
 - 🔭 I’m currently working on [a Task management App](https://github.com/madicke12/madicke-s-task-manangement-app)
 
@@ -21,6 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madicke12&show_icons=true&locale=en&layout=compact" alt="madicke12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madicke12&show_icons=true&locale=en" alt="madicke12" /></p>
+<p>&nbsp;<img style="margin: 2px ;" align="center" src="https://github-readme-stats.vercel.app/api?username=madicke12&show_icons=true&locale=en" alt="madicke12" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madicke12" alt="madicke12" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madicke12&" alt="madicke12" /></p>
