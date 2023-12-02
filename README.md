@@ -10,13 +10,11 @@
       background-color: #f4f4f4;
       padding: 20px;
     }
-
     .skills-container {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
       gap: 20px;
     }
-
     .skill {
       background-color: #fff;
       padding: 15px;
@@ -24,7 +22,6 @@
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       text-align: center;
     }
-
     .skill img {
       width: 40px;
       height: 40px;
