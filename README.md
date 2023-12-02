@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: grid; grid-template-columns: repeat(4, auto)); gap: 20px; text-align: center;">
+<div style="display:grid ;grid-template-columns: repeat(4, 1fr);">
 
   <!-- C -->
   <div style="text-align: center;">
